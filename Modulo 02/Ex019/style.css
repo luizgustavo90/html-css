@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body{
+    background-color: #75c1fa;
+    font-family: sans-serif;
+
+}
+
+h1#principal{
+    color:black;
+    background-color:white ;
+    
+
+}
+
+
+h1{
+    color: #3a5e7a;
+    background-color: black;
+
+}
+
+h2{
+    color: #69ade0;
+    background-color: black;
+    
+
+}
+
+.basico{
+    color: rgb(0, 132, 255);
+
+}
